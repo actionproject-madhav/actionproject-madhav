@@ -1,6 +1,6 @@
 # Madhav Khanal
 
-**CS + Math @ Rollins College** | Full-Stack Engineer | ML Research
+**CS + Math @ Rollins College** | Full-Stack Engineer | ML Research |
 Undergraduate Student building full-scale production systems | Full-ride Alfond Scholar, 4.0 GPA, International Physics Olympiad Team Member.
 
 ## Experiences
