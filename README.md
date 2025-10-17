@@ -2,7 +2,7 @@
 
 **CS + Math @ Rollins College** | Full-Stack Engineer | ML Research
 
-Sophomore building production systems at the intersection of healthcare, AI, and distributed systems. Full-ride Alfond Scholar, 4.0 GPA, International Physics Olympiad Team Member.
+Undergraduate Student building full-scale production systems impacting thousands. Full-ride Alfond Scholar, 4.0 GPA, International Physics Olympiad Team Member.
 
 ## Current
 
@@ -15,13 +15,13 @@ Production computer vision models (90%+ accuracy), full-stack research platform 
 ## Select Projects
 
 **[CuraSyn+](https://github.com/actionproject-madhav/HackHarvard)** | [Demo](https://curasyn.onrender.com)  
-Healthcare platform with real-time stroke detection (OpenCV), live transcription across 6 languages, AI symptom analysis. React, Flask, Gemini AI, MongoDB. *HackHarvard 2025*
+Healthcare platform with real-time stroke detection (OpenCV), live transcription across 6 languages, and AI symptom analysis. React, Flask, Gemini AI, MongoDB. *HackHarvard 2025*
 
 **[FinLit](https://github.com/actionproject-madhav/NSAhack)**  
-Financial literacy platform for immigrants with AI portfolio management, visa-compliant investing, gamified learning. Won $1K at NSA AI Hackathon. React, Flask, ML.
+Financial literacy platform for immigrants with AI portfolio management, visa-compliant investing, and gamified learning. Won $1K at NSA AI Hackathon. React, Flask, ML.
 
 **[Telia Analytics](https://github.com/actionproject-madhav/Telia_Analytics_Workshop)**  
-Sole undergrad among 30+ PhD researchers at European ML collaboration. Built clustering algorithms improving customer retention 30%. Python, SQL, LLMs, GPUs. *Lithuania*
+Sole undergrad among 30+ PhD researchers at European ML collaboration. Built clustering algorithms to improve customer retention 30%. Python, SQL, LLMs, GPUs. *Lithuania*
 
 **[Patient Mortality Prediction](https://github.com/actionproject-madhav/PatientMortality)**  
 Neural network achieving 95% accuracy on 1M+ patient dataset with feature engineering.
