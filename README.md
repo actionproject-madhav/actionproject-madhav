@@ -1,16 +1,18 @@
 # Madhav Khanal
 
 **CS + Math @ Rollins College** | Full-Stack Engineer | ML Research
+Undergraduate Student building full-scale production systems that impact thousands of users. Full-ride Alfond Scholar, 4.0 GPA, International Physics Olympiad Team Member.
 
-Undergraduate Student building full-scale production systems impacting thousands. Full-ride Alfond Scholar, 4.0 GPA, International Physics Olympiad Team Member.
-
-## Current
+## Experiences
 
 **Software Engineering Intern** @ Massey Services (Summer 2025)  
 Building cloud facilities management systems serving 10K+ daily users. Shipped customer referral rewards platform processing $20K+ monthly.
 
 **ML Engineer** @ VantixAI (Spring 2025)  
 Production computer vision models (90%+ accuracy), full-stack research platform serving 100+ users.
+
+**Software Engineering INtern ** @ Mero Shiksha App
+Built REST APIs and ML recommendation systems impacting 10,000+ student users
 
 ## Select Projects
 
@@ -27,10 +29,7 @@ Sole undergrad among 30+ PhD researchers at European ML collaboration. Built clu
 Full-stack e-commerce platform deployed for premium cashmere distributor. JavaScript, APIs.
 
 **[Deep-Research Agent](https://github.com/actionproject-madhav/Deep-Research)**  
-AI agent generating full research papers with multi-step reasoning. Python.
-
-
-
+AI agent is generating full research papers with multi-step reasoning. 
 
 
 ## Tech
@@ -41,10 +40,4 @@ AI agent generating full research papers with multi-step reasoning. Python.
 **Cloud:** AWS SageMaker, Azure DevOps, MongoDB Atlas  
 **Tools:** Git, Docker, Linux, CI/CD, RESTful APIs
 
-## Background
 
-Previously: Software Engineering Intern @ MeroSiksha (10K+ users, ML recommendation systems)  
-Education: Double Major in Mathematics and Computer Science at Rollins College | Alfond Scholar ($350k scholarship).
----
-
-[Portfolio](https://github.com/actionproject-madhav/my_portfolio) • [LinkedIn](https://linkedin.com/in/Madhav) • mkhanal@rollins.edu
