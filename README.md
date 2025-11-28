@@ -8,11 +8,15 @@ Undergraduate Student building full-scale production systems | Full-ride Alfond 
 **Software Engineering Intern** @ Massey Services (Summer 2025)  
 Building cloud facilities management systems serving 10K+ daily users. Shipped customer referral rewards platform processing $20K+ monthly.
 
+**ML Researcher ** @ Telia Company (Summer 2025)  
+Sole undergrad invited and fully funded among 30+ PhD researchers to build machine learning based recommendation systems at Telia. Collaborated with experts and helped Build $1M+ optimisation strategy
+
 **ML Engineer** @ VantixAI (Spring 2025)  
 Production computer vision models (90%+ accuracy), full-stack research platform serving 100+ users.
 
 **Software Engineering INtern ** @ Mero Shiksha App
 Built REST APIs and ML recommendation systems impacting 10,000+ student users
+
 
 ## Select Projects
 
