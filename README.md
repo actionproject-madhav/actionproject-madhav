@@ -2,7 +2,7 @@
 
 **Full-stack dev into AI/ML evaluation and adversarial machine learning.**
 
-[Website](https://madhav.club) • [GitHub](https://github.com/actionproject-madhav)
+[Website](https://madhav.club) 
 
 ---
 
