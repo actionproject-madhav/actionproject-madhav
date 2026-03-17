@@ -15,7 +15,7 @@ Website:https://madhav.club
 ## Prior Experience
 
 **Software Engineering Intern** @ Massey Services  
-**Software Engineering Inter** @ Bloom
+**Software Engineering Inter** @ Bloom **
 **Machine Learning Researcher** @ Telia Company  
 **AI Safety Fellow** @ SPAR
 
