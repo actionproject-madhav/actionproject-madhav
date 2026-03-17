@@ -15,7 +15,7 @@ Website:https://madhav.club
 ## Prior Experience
 
 **Software Engineering Intern** @ Massey Services  
-**Software Engineering Inter** @ Bloom **
+**Software Engineering Intern** @ Bloom  
 **Machine Learning Researcher** @ Telia Company  
 **AI Safety Fellow** @ SPAR
 
@@ -33,7 +33,7 @@ Website:https://madhav.club
 
 - **[Convex-Backend-Visualizer](https://github.com/actionproject-madhav/Convex-Backend-Visualizer)** — Live UI to visualize any Convex backend in real time · [Live](https://convex-backend-visualizer-variables.up.railway.app/)
 - **[Automated-Ad-Generator](https://github.com/actionproject-madhav/Automated-Ad-Generator)** — Pipeline for generating short-form video ads for mobile apps · [Live](https://adpulse-nine.vercel.app/)
-- **[website-cashmere-house-of-nepal](https://github.com/actionproject-madhav/website-cashmere-house-of-nepal)** — Full stack site built & deployed for Cashmere House, a global premium cashmere distributor
+
 
 ---
 
