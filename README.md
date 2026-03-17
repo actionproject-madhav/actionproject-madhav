@@ -1,6 +1,6 @@
 # Hi, I'm Madhav
 
-Full-stack dev into AI/ML, adversarial machine learning, and mathematical modelling.
+Full-stack dev into AI/ML evaluation and adversarial machine learning.
 
 ---
 
