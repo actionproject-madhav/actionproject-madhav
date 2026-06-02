@@ -1,8 +1,7 @@
 # Hi, I'm Madhav 
 
 **Full-stack dev into AI/ML evaluation and adversarial machine learning.**
-
-[Website](https://madhav.club) 
+ 
 
 ---
 
