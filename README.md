@@ -2,5 +2,4 @@
 
 **Full-stack dev into AI safety.**
 
-
-📫 **Reach me at:** [madhav.club](https://madhav.club)
+**Reach me at:** [madhav.club](https://madhav.club)
